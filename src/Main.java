@@ -19,5 +19,6 @@ public class Main {
             }
         }
         System.out.println("Sum of the numbers " + sum);
+        System.out.println("End this program.");
     }
 }
